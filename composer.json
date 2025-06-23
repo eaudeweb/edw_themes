@@ -1,0 +1,15 @@
+{
+    "name": "eaudeweb/edw_themes",
+    "description": "This module provides a collection of themes",
+    "type": "drupal-module",
+    "authors": [
+        {
+            "name": "dtabirca",
+            "email": "dtabirca@1029792.no-reply.drupal.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/gin": "^4.1 || ^5.0"
+    }
+}
